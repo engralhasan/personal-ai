@@ -31,6 +31,3 @@ python-docx>=1.1.2          # Word DOCX reading and text extraction
 # --- Web Intelligence & Scraping ---
 beautifulsoup4>=4.12.3      # HTML parsing for web scraping
 duckduckgo-search>=6.1.0    # Live anonymous web search tool
-
-# --- Git & Repository Management ---
-dulwich>=1.2.0              # Pure-Python Git engine (push and sync without Git binary)
